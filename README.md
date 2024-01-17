@@ -6,4 +6,4 @@ This game consists of an AI enemy chasing a player. A player has to amass as man
 - Code AI enemy
 - Center the game in the middle
 
-### Arnold.
+### Hirwa Arnold.
